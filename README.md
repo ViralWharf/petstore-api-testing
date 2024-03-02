@@ -30,4 +30,6 @@ Para ejecutar el proyecto hay que seguir los siguientes pasos y tener en cuenta 
 3. El reporte generado se guardará en [karate-summary.html](target%2Fkarate-reports%2Fkarate-summary.html), su ruta es `target/karate-reports/karate-summary.html` 
 4. ¡Comprueba los resultados!
 
+## Resultados!
+<img width="1440" alt="image" src="https://github.com/ViralWharf/petstore-api-testing/assets/100390417/9a85f4ab-df93-4f01-abee-a25d890f5dd5">
 
