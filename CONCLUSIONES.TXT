@@ -1,0 +1,11 @@
+El desarrollo de este proyecto de automatización con Karate ha sido una gran forma de recordar y aplicar
+aprendizajes, pues durante su desarrollo he ejecutado nuevos conocimientos y me ha generado aprendizajes
+significativos, así como reforzar mi comprensión sobre cómo construir un proyecto de automatización de
+pruebas desde cero con Karate, y la implementación de un enfoque organizativo eficiente, adaptado al
+contexto de Karate. También he mejorado mis habilidades de investigación, lo que me ha permitido abordar
+problemas de manera más eficiente, este proyecto ha representado una oportunidad invaluable para mi crecimiento y
+desarrollo profesional en el ámbito de la calidad de software y la automatización de pruebas.
+
+
+
+
